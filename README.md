@@ -5,7 +5,8 @@
 <p>Here you will find a collection of my projects. As a software developer, I believe in the power of collaboration and open-source software to drive innovation and solve complex problems. My GitHub profile showcases my skills, experience, and passion for coding. You can browse through my repositories, check out my code, and get a sense of my development process. Whether you are a fellow developer, an employer, or simply interested in learning more about me, I hope you find something here that sparks your interest.</p> 
 
 <h4>My Skills:</h4>
-<img src="https://i.postimg.cc/zXmrzrFr/css.png">
-<img src="https://i.postimg.cc/tgd15kR1/html-5.png">
+![css](https://user-images.githubusercontent.com/124400237/232079888-5643501d-7cb4-429c-a726-8af8ff478a15.png)
+![html-5](https://user-images.githubusercontent.com/124400237/232079892-9fdb3bb4-8dae-4135-96ef-c22ca93acc82.png)
+
 
 <p>Thank you for visiting!</p>

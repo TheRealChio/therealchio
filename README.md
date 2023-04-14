@@ -6,6 +6,6 @@
 
 <h4>My Skills:</h4>
 <img src="https://i.postimg.cc/zXmrzrFr/css.png">
-<img src="https://postimg.cc/qtRMB830">
+<img src="https://i.postimg.cc/tgd15kR1/html-5.png">
 
 <p>Thank you for visiting!</p>

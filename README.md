@@ -6,8 +6,10 @@
 
 <h4>My Skills:</h4>
 
-![css](https://user-images.githubusercontent.com/124400237/232079888-5643501d-7cb4-429c-a726-8af8ff478a15.png)
 ![html-5](https://user-images.githubusercontent.com/124400237/232079892-9fdb3bb4-8dae-4135-96ef-c22ca93acc82.png)
+![css](https://user-images.githubusercontent.com/124400237/232079888-5643501d-7cb4-429c-a726-8af8ff478a15.png)
+![js](https://user-images.githubusercontent.com/124400237/232080496-a358ce43-8cc7-4661-957a-60b987204483.png)
+
 
 
 <p>Thank you for visiting!</p>

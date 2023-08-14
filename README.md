@@ -1,5 +1,6 @@
 <img src="https://www.niit.com/india/sites/default/files/2022-04/HTML_1920x565px.jpg">
 
+<br>
 <h3>Welcome to my GitHub profile!</h3>
 
 <p>My name is Daniel, 25 years old and I'm from Munich.</p>

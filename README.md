@@ -16,4 +16,4 @@
 ![react](https://user-images.githubusercontent.com/124400237/232081206-9c8681b5-68a1-4089-a21d-b210188149f7.png)
 
 <br>
-<p>Thank you for visiting!</p>
+<p>Thank you for visiting! 💚</p>

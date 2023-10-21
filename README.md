@@ -10,7 +10,7 @@ Here you will find a collection of my projects. As a software developer, I belie
 ##
 <h2>🖥️ My Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,supabase,prisma,git,vscode,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,supabase,prisma,git,vscode,figma,xd&perline=5)](https://skillicons.dev)
 ##
 
 

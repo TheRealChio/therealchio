@@ -4,8 +4,8 @@
 **`Junior Web Developer 🚀`**
 ##
 <h2>🔆 My name is Daniel, 26 years old and I'm from Munich. 🔆</h2>
-##
 
+##
 Here you will find a collection of my projects. As a software developer, I believe in the power of collaboration and open-source software to drive innovation and solve complex problems. My GitHub profile showcases my skills, experience, and passion for coding. You can browse through my repositories, check out my code, and get a sense of my development process. Whether you are a fellow developer, an employer, or simply interested in learning more about me, I hope you find something here that sparks your interest.
 
 ##

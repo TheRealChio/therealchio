@@ -16,7 +16,6 @@ Here you will find a collection of my projects. As a software developer, I belie
 <h2>🌍 My Socials</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/591799317753495571)
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/berneisch/)
 
 

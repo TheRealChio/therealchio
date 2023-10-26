@@ -13,5 +13,10 @@ Here you will find a collection of my projects. As a software developer, I belie
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,supabase,prisma,git,vscode,figma,xd&perline=5)](https://skillicons.dev)
 
 
+<h2>🌍 My Socials</h2>
+
+<a href="https://discordapp.com/users/591799317753495571">
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+</a>
 
 <p>Thank you for visiting! 💚</p>
